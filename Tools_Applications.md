@@ -14,3 +14,4 @@
 - ILV-Sammler: https://ilvsammler.zhaw.ch/
 - FGB: Feedback- und Beurteilungsgespräche https://fbg.zhaw.ch/
 - Personaldossier: Lohnausweise und -abrechnungen: https://edossier.zhaw.ch/ (open with chrome)
+- [An- / Abwesenheiten FG Geoinformatik](https://zhaw.sharepoint.com/:x:/s/FGGeoinformatik/Ef5B9miGpZxPldQMvFiyYdsBd2MCSK8BELOxjUW0vyiYrA?e=Dcu0hU): Excel Sheet for the Research Groups internal koordination (on Teams under *General → FG Koordination → Anwesenheit_Q4_2022.xlsx*)
