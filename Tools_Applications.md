@@ -7,3 +7,10 @@
   - SAP Projektnummern
   - Funding Radar
   - Akquise-Portfolio
+
+## Miscellaneous
+
+- ZEUS Zeit und Spesenerfassung: Start via *Remote Desktop* (<https://client.wvd.microsoft.com>) which I've implemented as a chrome desktop App (<kbd>Power Button</kbd> and type *Remote desktop*)
+- ILV-Sammler: https://ilvsammler.zhaw.ch/
+- FGB: Feedback- und Beurteilungsgespräche https://fbg.zhaw.ch/
+- Personaldossier: Lohnausweise und -abrechnungen: https://edossier.zhaw.ch/ (open with chrome)
